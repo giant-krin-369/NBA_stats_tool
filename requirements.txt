@@ -1,4 +1,4 @@
 Flask==1.1.2
-nba_api==1.1.14
 pandas==1.4.2
+nba-api==1.1.14
 gunicorn==21.2.0
