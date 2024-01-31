@@ -1,0 +1,1 @@
+web: gunicorn NBA : app --log-file -
